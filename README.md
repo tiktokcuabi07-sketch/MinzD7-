@@ -76,7 +76,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>💖 Gửi cậu 💖</h1>
+    <h1>💖 Gửi cậu Thư 💖</h1>
     <p>
       Tớ không giỏi nói lời hoa mỹ…<br>
       Nhưng mỗi lần nhìn thấy cậu,<br>
