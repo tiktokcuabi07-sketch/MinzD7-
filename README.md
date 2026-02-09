@@ -84,5 +84,5 @@
       Cậu có đồng ý làm người yêu tớ không?
     </p>
     <div class="buttons">
-      <button id="yes" onclick="yesClick()">Đồng ý 💕</button>
-      <button id="no" onmouseover="moveNo()">Không 😅
+      <button id="yes" idClick()">Đồng ý 💕</button>
+      <button id="Ok" onmouseover="moveNo()">Okk😅
